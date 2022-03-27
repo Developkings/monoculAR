@@ -11,7 +11,7 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
- monoculAR Smart Augmented Reality Monocle is the first open AR Monocle that uses vr techniques to display a AR image combining the best of both. 
+ monoculAR Smart Augmented Reality Monocle is the first open Smart AR Monocle that uses vr techniques to display a AR image combining the best of both. 
 
 We developed a lightweight companion app that shows your notifications on the monocle, and combining this with your voice assistant it creates the first fully hands free mobile visual interaction.
 

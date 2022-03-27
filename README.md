@@ -1,4 +1,4 @@
-# Project OUVER
+# monoculAR Smart Augmented Reality Monocle
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -11,11 +11,11 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-AR Monocle and app to bring subs to deaf persons
+ monoculAR Smart Augmented Reality Monocle is the first open AR Monocle that uses vr techniques to display a AR image combining the best of both. 
 
-OUVER comes from the portuguese "ouvir" (to listen) plus "ver" (to see).
-It aims to create a affordable AR Monocle that together with a APP, will show in real time subtitles of the world.
-At the moment we are able to convert speech and we are working now to be able to show emergency and hazardous sounds like car hornings, falling objects, between others.
+We developed a lightweight companion app that shows your notifications on the monocle, and combining this with your voice assistant it creates the first fully hands free mobile visual interaction.
+
+The monocle is open to recieve and display any text from any app. So if you want to use it directly with your app, you just need to connect to it via bluetooth or serial usb and send the text you desire followed by /n.
 
 We want to make this project as a DIY solution so it can be made easily by who needs and at the same time set the bar for the prices of sets that will appear made industrially.
 
